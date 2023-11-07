@@ -13,6 +13,11 @@ The project is divided into two parts:
 
 ![Blank diagram (6)](https://github.com/mathesh-me/high-availabilty-deployment-terraform/assets/144098846/adad4562-7798-4d15-827e-56d5e5e0206b)
 
+## Workflow Diagram 📊
+
+![AWS Resource Deploy using Jenkins and Terraform](https://github.com/mathesh-me/aws-ha-deployment-jenkins-terraform/assets/144098846/e59aa66d-8a1e-4c78-99dc-045653d53aa1)
+
+
 ## Features 📋
 
 - **High Availability:** The architecture is deployed across multiple Availability Zones to ensure high availability.
