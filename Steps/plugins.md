@@ -1,4 +1,4 @@
-![aws-jenkins-1](https://github.com/mathesh-me/aws-ha-deployment-jenkins-terraform/assets/144098846/1338f6e4-93aa-40d3-9b96-7e998a7b4616)## Install the Terraform plugin
+## Install the Terraform plugin
 
 1. Open Jenkins in a browser.
 
