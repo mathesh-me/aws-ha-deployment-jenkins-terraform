@@ -11,4 +11,7 @@
 - The pipeline job will also output the `Load Balancer DNS Name`.
 - Copy the `Load Balancer DNS Name` and paste it in a browser to access the application.
 - The application will be accessible from the Internet.
+
+![result](https://github.com/mathesh-me/high-availabilty-deployment-terraform/assets/144098846/b5add2bd-e0ef-4cd0-8ec8-420932af301d)
+
 - The application will be deployed to the AWS infrastructure automatically whenever a change is made to the application code.
