@@ -15,3 +15,7 @@
 ![result](https://github.com/mathesh-me/high-availabilty-deployment-terraform/assets/144098846/b5add2bd-e0ef-4cd0-8ec8-420932af301d)
 
 - The application will be deployed to the AWS infrastructure automatically whenever a change is made to the application code.
+- You can see the below Image , it is the output for Deploying and Destroying Resources:
+
+ ![aws-jenkins-3](https://github.com/mathesh-me/aws-ha-deployment-jenkins-terraform/assets/144098846/0bfd6d01-1991-4322-ab35-5be22050425b)
+
