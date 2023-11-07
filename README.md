@@ -11,7 +11,7 @@ The project is divided into two parts:
 
 ## Architecture Diagram 📌
 
-![Architecture](./images/architecture.png)
+![Blank diagram (6)](https://github.com/mathesh-me/high-availabilty-deployment-terraform/assets/144098846/adad4562-7798-4d15-827e-56d5e5e0206b)
 
 ## Features 📋
 
