@@ -1,4 +1,4 @@
-## Install Jenkins on Virtula Machine
+## Install Jenkins on Virtual Machine
 
 ### Prerequisites
 
