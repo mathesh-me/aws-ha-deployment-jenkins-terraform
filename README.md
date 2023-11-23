@@ -84,9 +84,9 @@ Before you begin, ensure you have the following:
 
 - Create a new pipeline job in Jenkins and configure it to use the `Jenkinsfile` in the repository.
 
-- Run the pipeline job to deploy the AWS infrastructure.
+- Run the pipeline job and choose deploy to deploy the AWS infrastructure.
 
-- Run the pipeline job again to deploy the application to the AWS infrastructure.
+- Run the pipeline job and choose destroy to destroy the Created infrastructure.
 
 ## Contributing 🤝
 
@@ -103,6 +103,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Terraform](https://www.terraform.io/) - For deploying the AWS infrastructure.
 
 - [Jenkins](https://www.jenkins.io/) - For continuous integration and continuous delivery.
+
+  ## Author ✍️
+
+- [Mathesh](https://www.linkedin.com/in/mathesh-me/) on LinkedIn.
 
 - You Can also check out my [Medium](https://medium.com/@mathesh-me) for more articles on DevOps Tools and Technologies.
 
