@@ -6,8 +6,8 @@ This project automates the deployment of a high-availability AWS architecture us
 
 The project is divided into two parts:
 
-- **Part 1:** Committing Terraform configuration code(HCL) in GitHub.
-- **Part 2:** Deploying the application to the AWS infrastructure using Jenkins through the HCL code in GitHub.
+- **Part 1:** Committing Terraform configuration code **HCL** in GitHub.
+- **Part 2:** Deploying the application to the AWS infrastructure using Jenkins through the **HCL** code in GitHub.
 
 ## Architecture Diagram 📌
 
