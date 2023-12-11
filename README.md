@@ -6,8 +6,8 @@ This project automates the deployment of a high-availability AWS architecture us
 
 The project is divided into two parts:
 
-- **Part 1:** Deploying the AWS infrastructure using Terraform.
-- **Part 2:** Deploying the application to the AWS infrastructure using Jenkins.
+- **Part 1:** Committing Terraform configuration code in GitHub.
+- **Part 2:** Deploying the application to the AWS infrastructure using Jenkins through the code in GitHub.
 
 ## Architecture Diagram 📌
 
